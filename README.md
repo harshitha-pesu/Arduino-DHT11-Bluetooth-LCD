@@ -28,6 +28,10 @@ It’s a simple IoT-style project, great for beginners in Arduino and embedded s
 ---
 
 ## You can find the complete arduino ide code, circuit diagram and the demo video under the repository 
+- Open the .ino file in the Arduino IDE.
+- Install required libraries in Arduino IDE: dht, LiquidCrystal_I2C, SoftwareSerial
+- Upload to Arduino Uno.
+- Pair Bluetooth Module with your PC or smartphone.
 
 ---
 
